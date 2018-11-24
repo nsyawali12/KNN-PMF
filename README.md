@@ -1,2 +1,2 @@
 # KNN-PMF
-Practice Makes Fun with KNN Artificial Intelligence Projecet
+Practice Makes Fun with KNN Artificial Intelligence Project
